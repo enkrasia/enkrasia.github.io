@@ -5,7 +5,7 @@ baseurl:             ""
 markdown:            kramdown
 highlighter:         rouge
 
-exclude:             ['*.sublime-*', 'README.md', 'LICENSE', 'Gemfile', 'Gemfile.lock', 'vendor/bundle']
+exclude:             ['*.sublime-*', 'README.md', 'LICENSE', 'Gemfile', 'Gemfile.lock', 'vendor/bundle', '_posts\.obsidian', '_posts\Template', '_posts\.trash']
 
 permalink:           none
 paginate:            5
