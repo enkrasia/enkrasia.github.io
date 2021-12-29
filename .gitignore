@@ -17,6 +17,6 @@ vendor/
 
 # custom
 *.bat
-_posts/.obsidian
-_posts/Template
-_posts/.trash
+/_posts/.obsidian/*
+/_posts/Template/*
+/_posts/.trash/*
