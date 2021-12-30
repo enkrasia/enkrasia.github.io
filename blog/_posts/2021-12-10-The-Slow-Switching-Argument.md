@@ -23,18 +23,23 @@ In his *The Philosophy of Philosophy*, Timothy Williamson (2007) argues that tho
 <!--more-->
 
 First, The argumnet's target analysis is a claim of necessary and sufficient conditions for knowing (where $J$ stands for 'having a JTB for'):
+
 (1) $\Box \forall x \forall p(K(x, p) \leftrightarrow J(x, p))$
 
 Second, the argument is based on some imaginary story,  We can represent a Gettier-style story by G(X, P), meaning that X bears a Gettier-relation to P, i.e., having a JTB for P on the basis of some justified false belief:
+
 (2) $G(X, P)$
 
 Third, given this imaginary story, it is possible that there is at least one subject and one proposition such that this subject bears a Gettier-relation to this proposition:
+
 (3) $\Diamond \exists x \exists p (G(x, p))$
 
 Four, if there were an instance of one's bearing Gettier-relation to some proposition, then any instance of one's bearing Gettier-relation to some proposition is an instance of one's having a JTB for this proposition without knowing it:
+
 (4) $\exists x \exists p (G(x, p) \Box \rightarrow \forall x \forall p (G(x, p) \rightarrow (J( x, p) \land \neg K(x, p)))$
 
 Five, (3) and (4) logically entail that:
+
 (5) $\Diamond \exists x \exists p (J(x, p) \land \neg K(x, p))$
 
 (5) falsifies (1), namely, the JTB principle of knowledge.
