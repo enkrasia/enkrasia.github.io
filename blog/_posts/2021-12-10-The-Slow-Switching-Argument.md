@@ -20,6 +20,8 @@ excerpt_separator: <!--more-->
 
 In his *The Philosophy of Philosophy*, Timothy Williamson (2007) argues that thought experiment arguments should be formulated in terms of the counterfactual conditional. By analysing Gettier's argument against the justified true belief (JTB) principle of argument, a paradigmatic thought experiment argument in philosophy, he finds that the argument has the following structure (2007, p. 181-187).
 
+<!--more-->
+
 First, The argumnet's target analysis is a claim of necessary and sufficient conditions for knowing (where $J$ stands for 'having a JTB for'):
 (1) $\Box \forall x \forall p(K(x, p) \leftrightarrow J(x, p))$
 
