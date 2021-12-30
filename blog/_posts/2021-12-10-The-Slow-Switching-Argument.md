@@ -47,23 +47,23 @@ Five, (3) and (4) logically entail that:
 # The Williamsonian Counterfactual Framework
 We can then, on the basis of Williamson's analysis of Gettier's argument, formulate a general framework for any Gettier-style thought experiment argument, as follow:
 
-**The Target Analysis**
+The Target Analysis
 
 (TA) $\Box \forall x (Fx)$
 
-**An Imaginary Story**
+An Imaginary Story
 
 (IS) $DX$
 
-**The Possibility Premise**
+The Possibility Premise
 
 (PP) $\Diamond \exists x(Dx)$
 
-**The Counterfactual Premise**
+The Counterfactual Premise
 
 (CP) $\exists x(Dx) \Box \rightarrow \forall x(Dx \rightarrow \neg Fx)$
 
-**The Conclusion**
+The Conclusion
 
 (CO) $\Diamond \exists x(\neg Fx)$
 
@@ -90,7 +90,7 @@ Based on Boghosian's (1989) version of the SS argument, we can formulate the arg
 (CO-SS) can falsify (TA-SS).
 
 # A Modification?
-Some may object that, given content externalism, the concept that the subject in question possess on Earth should be different from that on Twin-Earth. Therefore, it is wrong to say, as (PP-SS) represents, that one, who is in the switching situation and thinks (solely) about P, lacks the privileged access to this P-thought.
+Some may object that, given content externalism, the concept that the subject in question possess on Earth should be different from that on Twin-Earth. Therefore, it is wrong to say that, as (PP-SS) represents, one, who is in the switching situation and thinks (solely) about P, lacks the privileged access to this P-thought.
 
 In response, we can specific the imaginary story in the way that there is a subject who have had both P-thought and its Twin-Earth counterpart. Let us introduce the Twin-Earth operator $t$ such that $tP$ is the Twin-Earth counterpart of $P$. We can then modify the original formulation as follow: 
 
