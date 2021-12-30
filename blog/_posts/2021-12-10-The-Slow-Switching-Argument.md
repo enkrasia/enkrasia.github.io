@@ -92,7 +92,7 @@ Based on Boghosian's (1989) version of the SS argument, we can formulate the arg
 # A Modification?
 Some may object that, given content externalism, the concept that the subject in question possess on Earth should be different from that on Twin-Earth. Therefore, it is wrong to say that, as (PP-SS) represents, one, who is in the switching situation and thinks (solely) about P, lacks the privileged access to this P-thought.
 
-In response, we can specific the imaginary story in the way that there is a subject who have had both P-thought and its Twin-Earth counterpart. Let us introduce the Twin-Earth operator $t$ such that $tP$ is the Twin-Earth counterpart of $P$. We can then modify the original formulation as follow: 
+In response, we can modify (IS) in the way that it can represent the SS situation more presciently, that is, representing a subject who have had both P-thought and its Twin-Earth counterpart. Let us introduce the Twin-Earth operator $t$ such that $tP$ is the Twin-Earth counterpart of $P$. We can then modify the original formulation as follow: 
 
 (IS-SS*) $S(X) \leftrightarrow (T(S, P) \land T(S, tP))$
 
