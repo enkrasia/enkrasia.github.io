@@ -1,6 +1,6 @@
 title:               Jianxin Wu
 url:                 https://enkrasia.github.io
-baseurl:             ""
+baseurl:             "https://enkrasia.github.io"
 
 markdown:            kramdown
 highlighter:         rouge
