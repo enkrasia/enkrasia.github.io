@@ -1,6 +1,6 @@
 ---
 lyout: post
-title: The Slow-Switching Argument: A Williamsonian Counterfactual Analysis
+title: The Slow-Switching Argument&#58 A Williamsonian Counterfactual Analysis
 category: 哲学
 truncated_preview: true
 excerpt_separator: <!--more-->
@@ -87,16 +87,16 @@ $\Diamond \exists s \exists p (T(s, p) \land K(s, T(s, p)))$
 # A Modification?
 Some may object that, given content externalism, the concept that the subject in question possess on Earth should be different from that on Twin-Earth. Therefore, it is wrong to say, as (PP-SS) represents, that one, who is in the switching situation and thinks (solely) about P, lacks the privileged access to this P-thought.
 
-In response, we can specific the imaginary story in the way that there is a subject who have had both P-thought and its Twin-Earth counterpart. Let us introduce the Twin-Earth operator $\#$ such that $\#P$ is the Twin-Earth counterpart of $P$. We can then modify the original formulation as follow: 
+In response, we can specific the imaginary story in the way that there is a subject who have had both P-thought and its Twin-Earth counterpart. Let us introduce the Twin-Earth operator $t$ such that $tP$ is the Twin-Earth counterpart of $P$. We can then modify the original formulation as follow: 
 
 (IS-SS*)
-$S(X) \leftrightarrow (T(S, P) \land T(S, \#P))$
+$S(X) \leftrightarrow (T(S, P) \land T(S, tP))$
 
 (PP-SS*)
-$\Diamond \exists x \exists p (T(s, p) \land T(s, \#p))$
+$\Diamond \exists x \exists p (T(s, p) \land T(s, tp))$
 
 (CP-SS*)
-$\exists s \exists p(T(s, p) \land T(s, \#p)) \Box \rightarrow \forall x \forall p ((T(s, p) \land T(s, \#p)) \rightarrow (T(s, p) \land \neg K(s, T(s, P)))$
+$\exists s \exists p(T(s, p) \land T(s, tp)) \Box \rightarrow \forall x \forall p ((T(s, p) \land T(s, tp)) \rightarrow (T(s, p) \land \neg K(s, T(s, P)))$
 
 (CP-SS*) can still falsify (TA-SS), namely, the principle of privileged access.
 
