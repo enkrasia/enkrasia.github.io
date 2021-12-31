@@ -5,8 +5,8 @@
   <title>
     {% if page.title == "Home" %}
       {{ site.title }}
-    {% else if page.title == "Blog" %}
-      "Jianxin的博客"
+    {% if page.title == "Blog" %}
+      Jianxin的博客
     {% else %}
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
