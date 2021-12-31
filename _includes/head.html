@@ -5,7 +5,7 @@
   <title>
     {% if page.title == "Home" %}
       {{ site.title }}
-    {% if page.title == "Blog" %}
+    {% else if page.title == "Blog" %}
       Jianxin的博客
     {% else %}
       {{ page.title }} &middot; {{ site.title }}
