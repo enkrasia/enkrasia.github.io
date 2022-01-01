@@ -104,4 +104,5 @@ In response, we can modify (IS) in the way that it can represent the SS situatio
 
 # Reference
 Boghossian, P. A. (1989). Content and Self-Knowledge. *Philosophical Topics*, 17(1), 5–26.
+
 Williamson, T. (2007). *The philosophy of philosophy*. Blackwell Pub.
