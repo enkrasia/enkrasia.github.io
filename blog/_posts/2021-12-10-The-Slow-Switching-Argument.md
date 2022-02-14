@@ -18,15 +18,15 @@ excerpt_separator: <!--more-->
     </script>
 </head>
 
-In his *The Philosophy of Philosophy*, Timothy Williamson (2007) argues that thought experiment arguments should be formulated in terms of the counterfactual conditional. By analysing Gettier's argument against the justified true belief (JTB) principle of argument, a paradigmatic thought experiment argument in philosophy, he finds that the argument has the following structure (2007, p. 181-187).
+In his *The Philosophy of Philosophy*, Timothy Williamson (2007) argues that thought experiment arguments should be formulated in terms of counterfactual conditional. By analysing Gettier's argument against the justified true belief (JTB) principle of argument, he finds that the argument has the following structure (2007, p. 181-187).
 
 <!--more-->
 
-First, The argumnet's target analysis is a claim of necessary and sufficient conditions for knowing (where $J$ stands for 'having a JTB for'):
+First, The argument's target analysis is a universal statement about the sufficient and necessary condition of knowledge (where $J$ stands for 'having a JTB for'):
 
 (1) $\Box \forall x \forall p(K(x, p) \leftrightarrow J(x, p))$
 
-Second, the argument is based on some imaginary story,  We can represent a Gettier-style story by G(X, P), meaning that X bears a Gettier-relation to P, i.e., having a JTB for P on the basis of some justified false belief:
+Second, the argument is based on some imaginary story. We can represent a Gettier-style story by G(X, P), meaning that X bears a Gettier-relation to P, i.e., having a JTB for P on the basis of some justified false belief:
 
 (2) $G(X, P)$
 
@@ -34,11 +34,11 @@ Third, given this imaginary story, it is possible that there is at least one sub
 
 (3) $\Diamond \exists x \exists p (G(x, p))$
 
-Four, if there were an instance of one's bearing Gettier-relation to some proposition, then any instance of one's bearing Gettier-relation to some proposition is an instance of one's having a JTB for this proposition without knowing it:
+Fourth, if there were an instance of one's bearing Gettier-relation to some proposition, then any instance of one's bearing Gettier-relation to some proposition is an instance of one's having a JTB for this proposition without knowing it:
 
 (4) $\exists x \exists p (G(x, p) \Box \rightarrow \forall x \forall p (G(x, p) \rightarrow (J( x, p) \land \neg K(x, p)))$
 
-Five, (3) and (4) logically entail that:
+Fifth, (3) and (4) logically entail that:
 
 (5) $\Diamond \exists x \exists p (J(x, p) \land \neg K(x, p))$
 
