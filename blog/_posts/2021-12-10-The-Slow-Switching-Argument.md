@@ -22,7 +22,7 @@ In his *The Philosophy of Philosophy*, Timothy Williamson (2007) argues that tho
 
 <!--more-->
 
-First, The argument's target analysis is a universal statement about the sufficient and necessary condition of knowledge (where $J$ stands for 'having a JTB for'):
+First, the argument's target analysis is a universal statement about the sufficient and necessary condition of knowledge (where $J$ stands for 'having a JTB for'):
 
 (1) $\Box \forall x \forall p(K(x, p) \leftrightarrow J(x, p))$
 
